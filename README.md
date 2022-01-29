@@ -1,4 +1,4 @@
-# Gaussian Process in Python
+# Gaussian Processes in Python
 
 A bare-bones implementation of Gaussian processes in Python.
 
